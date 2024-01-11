@@ -2,11 +2,11 @@
 frappe에 새로운 site 추가하기
 
 
-
+참고 사이트 (카톡 공지보다 frappe 공식 document를 참고하자)
 https://frappeframework.com/docs/user/en/basics/sites <br>
 
 
-$ bench new-site timesheet.local <br>
+bench new-site timesheet.local <br>
 bench --site timesheet.local serve <br>
 bench use timesheet.local <br>
 bench migrate <br>
