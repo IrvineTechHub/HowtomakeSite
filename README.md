@@ -6,6 +6,9 @@ frappe에 새로운 site 추가하기
 https://frappeframework.com/docs/user/en/basics/sites <br>
 
 
+
+To create a new site, run the following command from the frappe-bench directory: 
+
 <br>
 <br>
 bench new-site timesheet.local <br>
